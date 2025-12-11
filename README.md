@@ -209,14 +209,14 @@ Uses matrix exponentiation for time propagation:
 Each script generates GIF animations:
 
 **Infinite Well:**
-- [`infinite_well_ground_state.gif`](https://github.com/v-mv/PsiEvolutionKit/blob/main/Notebook/infinite_well_ground_state.gif)
-- [`infinite_well_second_state.gif`](https://github.com/v-mv/PsiEvolutionKit/blob/main/Notebook/infinite_well_second_state.gif)
-- [`infinite_well_superposition.gif`](https://github.com/v-mv/PsiEvolutionKit/blob/main/Notebook/infinite_well_superposition.gif)
+- [`infinite_well_ground_state.gif`](/Notebook/infinite_well_ground_state.gif)
+- [`infinite_well_second_state.gif`](/Notebook/infinite_well_second_state.gif)
+- [`infinite_well_superposition.gif`](/Notebook/infinite_well_superposition.gif)
 
 **Harmonic Oscillator:**
-- [`harmonic_ground_state.gif`](https://github.com/v-mv/PsiEvolutionKit/blob/main/Notebook/harmonic_ground_state.gif)
-- [`harmonic_excited_state.gif`](https://github.com/v-mv/PsiEvolutionKit/blob/main/Notebook/harmonic_excited_state.gif)
-- [`harmonic_superposition.gif`](https://github.com/v-mv/PsiEvolutionKit/blob/main/Notebook/harmonic_superposition.gif)
+- [`harmonic_ground_state.gif`](/Notebook/harmonic_ground_state.gif)
+- [`harmonic_excited_state.gif`](/Notebook/harmonic_excited_state.gif)
+- [`harmonic_superposition.gif`](/Notebook/harmonic_superposition.gif)
 
 **Time Evolution:**
 - `free_particle.gif`
